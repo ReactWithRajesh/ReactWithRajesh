@@ -11,7 +11,7 @@ JIO Platform Limited(Reliance) Bangalore.
 - 👯 I’m looking to collaborate on Frontend Devlopment(ReactJs) project.
 - 💬 Ask me about React project related.
 - 📫 You can reach me @ rksmech79@gmail.com / @rjs.react.19@gmail.com
-- 😄 Pronouns: He/His
+- 😄 Pronouns: Rajesh/He/His
 - ⚡ Fun fact: Love to Play volleyball.
 
 <!--
