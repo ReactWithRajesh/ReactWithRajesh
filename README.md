@@ -1,7 +1,7 @@
 ### Hi Welcome To My GitHub profile. 👋
 
 - 👋 Hi, I’m Rajesh kumar.
-- 💞️ I’m a Software Engineer having 4.7+ years of experince.
+- 💞️ I’m a MERN  Full Stack engineer having 4.7+ years of experince.
 - <img width="18" alt="image" src="https://github.com/user-attachments/assets/31828a17-386e-4fd6-8653-66d756f16895"> I'm currently associated with <img width="20" alt="image" src="https://github.com/user-attachments/assets/7d8b3cfc-3514-47c3-84cd-168cdcba1a35">
 JIO Platform Limited(Reliance) Bangalore.
 - 🔭 I also worked at Grasko Solution Private Limited (Bangalore,India).
